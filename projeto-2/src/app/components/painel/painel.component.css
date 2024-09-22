@@ -1,0 +1,9 @@
+.conteudo{
+    text-align: center;
+    margin: 1%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.conteudo > p{
+    font-size: 35px;
+}

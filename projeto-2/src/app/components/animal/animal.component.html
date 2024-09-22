@@ -1,0 +1,10 @@
+<!--Estrutura que cada um dos cards dos animais deve ter-->
+<section class="card-animal">
+    <section class="image-animal">
+        <img [src]="animalData.image" alt="Cachorro">
+    </section>
+    <section class="info-animal">
+        <p class>{{ animalData.name }}</p>
+        <a [routerLink]="['/detalhes', animalData.id]">Mais Informações</a>
+    </section>
+</section>

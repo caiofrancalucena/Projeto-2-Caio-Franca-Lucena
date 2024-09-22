@@ -1,0 +1,26 @@
+.conteudo{
+    margin: 2%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.descricao{
+    text-align: justify;
+}
+
+.campo-texto{
+    text-align: center;
+}
+.image{
+    max-width: 500px;
+    border-radius: 20px;
+    max-height: 400px;
+}
+
+.nome{
+    font-size: 50px;
+}
+
+

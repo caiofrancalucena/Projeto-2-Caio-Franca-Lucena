@@ -1,0 +1,7 @@
+Descrição do projeto: O meu projero se trata de uma aplicação web utilizando o framework Angular, ela se trata de uma tela com meus tres pets (animais de estimação), sendo que na tela inicial se tem a foto, nome e um link para a pagina de detalhes para que sejam exibidas informações mais detalhadas de cada um, como sexo, descrição, raça, espécie e demais informações pertinentes, alem disso na tela inicial se tem um formulário abaixo dos animais onde o usuário pode adicionar um comentario, funcionando como uma epécie de forum, esse comentarios são armazenados no arquivo db.json para em uma melhoria futura serem exibidos na tela de inicio.
+
+Instruções de como executar a aplicação: Para que a aplicação rode de maneira correta é necessáio primeiramente estartar o json-server, para isso no terminar deve-ser divitar o comando json-server --watch db.json, isso serve para poder iniciar o simulador de troca de informações com uma api, o proximo passo é  abrir o terminal e executar o comando ng serve, isso irá iniciar o servidor do angular e a aplicação  estará disponivel para ser acessada no navegador. Em seguida o usuáio pode se divertir clicando em Mais Informações  para acessar a tela de detalhes de cada pet.
+
+Tecnologias utilizadas: Framework Angular, Json-server, Angular Material, Html para a estrutura, CSS para a estilização, TypeScript para as funcionalidades.
+
+Possíveis melhorias futuras: Implementar uma função para que os comentario possam ser inseridos na pagina de cada animal.

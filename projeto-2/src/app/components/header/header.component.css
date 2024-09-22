@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(1, 23, 71);
+    color: white;
+    font-size: 60px;
+    padding: 3%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+header > a{
+    color: white;
+    text-decoration: none;
+}

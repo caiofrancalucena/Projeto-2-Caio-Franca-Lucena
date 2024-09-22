@@ -1,0 +1,8 @@
+p{
+    background-color: rgb(1, 23, 71);
+    color: white;
+    padding: 1%;
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+}

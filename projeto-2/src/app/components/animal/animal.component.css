@@ -1,0 +1,32 @@
+.card-animal{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 10px;
+    position: relative;
+    margin-right: 50px;
+}
+
+.image-animal img{
+    width: 200px;
+}
+
+.info-animal{
+    font-size: 90px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(1, 23, 71);
+    border-radius: 0px  0px 20px 20px;
+    text-align: center;
+    padding: 3%;
+}
+
+a{
+    font-size: 25px;
+    color: white;
+}

@@ -1,0 +1,49 @@
+{
+  "animais": [
+    {
+      "id": "1",
+      "name": "Rex",
+      "description": "Rex sempre foi um aventureiro nato. Desde filhote, ele corria pelos campos como se estivesse explorando novos mundos a cada dia. Suas orelhas balançavam ao vento enquanto seu corpo ágil saltava por entre as pedras e arbustos. Com o passar do tempo, Rex se tornou um companheiro fiel, daqueles que entendem a alma do dono com um simples olhar. Ele adora longas caminhadas ao entardecer e, nos momentos de descanso, deita ao lado de seus humanos, respirando fundo como se estivesse em paz com o mundo. Seu pelo dourado brilha ao sol, e os olhos castanhos sempre parecem estar à procura de uma nova aventura ou de um carinho extra. Não importa a hora do dia, Rex está pronto para viver o momento com entusiasmo e alegria.",
+      "image": "../../../assets/cachorro.jpg",
+      "idade": 12,
+      "sexo": "Masculino",
+      "pelagem": "Branca, Preta e Marrom",
+      "especie": "Canina",
+      "raca": "SRD (Sem Raça Definida)"
+    },
+    {
+      "id": "2",
+      "name": "Luna",
+      "description": "Luna chegou como um raio de luz em uma tarde chuvosa, toda molhada e com o olhar perdido, mas com um brilho de esperança nos olhos. Desde então, ela tem sido a guardiã silenciosa da casa, sempre atenta a cada movimento. Seu comportamento calmo esconde uma energia latente que só aparece quando ela encontra sua bola favorita, com a qual corre incansavelmente pelo jardim. Ela também tem um lado carinhoso; sempre encontra o momento perfeito para deitar ao lado do sofá e colocar a cabeça no colo de quem estiver por perto. Luna ama as manhãs, especialmente quando o sol ilumina seu pelo preto, fazendo com que ela pareça uma sombra viva que se estica e relaxa sob os raios quentes. Todos que a conhecem sabem que, por trás de seu olhar sereno, há uma alma afetuosa e leal.",
+      "image": "../../../assets/lulu.jpg",
+      "idade": 12,
+      "sexo": "Masculino",
+      "pelagem": "Amarelo/Dourado",
+      "especie": "Canina",
+      "raca": "Lulu da Pomerânia"
+    },
+    {
+      "id": "3",
+      "name": "Milo",
+      "description": "Milo é um gato que carrega o mistério em seu olhar profundo. Ele surgiu de repente, como se tivesse escolhido sua nova casa em uma noite estrelada. Com seu pelo cinza macio, ele se move como um felino selvagem, sempre com passos silenciosos e calculados. Durante o dia, gosta de observar tudo de longe, geralmente de um canto ensolarado da janela, onde passa horas se aquecendo e refletindo sobre o mundo. À noite, Milo se transforma; suas aventuras começam nos jardins ao redor, e ele retorna com histórias em seus olhos, como se tivesse explorado cada canto escondido do bairro. Embora tenha um espírito independente, ele sempre volta para os carinhos e afagos de seus donos, ronronando baixo como um agradecimento silencioso pela companhia e o lar.",
+      "image": "../../../assets/gato.jpg",
+      "idade": 10,
+      "sexo": "Masculino",
+      "pelagem": "Amarelo, Marrom e Branco",
+      "especie": "Feina",
+      "raca": "Ashera"
+    }
+  ],
+  "comentarios": [
+    {
+      "id": "1e90",
+      "nome": "Caio",
+      "comentario": "Site muito bonito"
+    },
+    {
+      "id": "817e",
+      "nome": "Marcos",
+      "comentario": "Melhor site"
+    }
+  ]
+}

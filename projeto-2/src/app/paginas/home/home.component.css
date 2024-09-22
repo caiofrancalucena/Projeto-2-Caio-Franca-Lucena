@@ -1,0 +1,35 @@
+.form-comentario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.formulario{
+    border: black solid;
+    margin: 1% 30%;
+    padding: 2%;
+    border-radius: 20px;
+}
+
+.form-comentario > button{
+    padding: 3%;
+    border-radius: 20px;
+    background-color: rgb(1, 23, 71);
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container-comentarios{
+    border: black solid;
+    margin: 1% 30%;
+    padding: 1%;
+    border-radius: 20px;
+}
+
+.topo-comentario{
+    text-align: center;
+    margin: 2%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
